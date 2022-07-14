@@ -1,0 +1,38 @@
+@import url("./styles/cabecalho.css");
+@import url("./styles/chamada.css");
+@import url("./styles/botao.css");
+@import url("./styles/container.css");
+@import url("./styles/destaques.css");
+@import url("./styles/diferenciais.css");
+@import url("./styles/sobre.css");
+@import url("./styles/planos.css");
+@import url("./styles/institucional.css");
+@import url("./styles/contato.css");
+@import url("./styles/rodape.css");
+
+:root {
+    --branco: #FFFFFF;
+    --azul-claro: #DFE3E5;
+    --vermelho: #B72E2E;
+    --cinza-escuro: #4F4C4C;
+    --cinza-claro: #F7F4F4;
+    --cinza-medio: #D9D9D9;
+    --preto: #000000;
+
+    --fonte-link: #0084FF;
+    --fonte-cinza: #666;
+    --borda-cabecalho: #103D4A;
+    --fundo-rodape: #333;
+    --fundo-mobile: #00161C;
+
+    --cartao-start: #56CCF2;
+    --cartao-ultra: #B04CD9;
+    --cartao-mega: #E33B3B;
+
+    --fonte-secundaria:"Montserrat", sans-serif;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
